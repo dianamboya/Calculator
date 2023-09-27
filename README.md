@@ -1,2 +1,2 @@
 # Calculator
-A calculator build using python programming language, and python GUI
+A calculator built using python programming language, and python GUI
